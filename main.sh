@@ -9,7 +9,7 @@
 
 # Displaying the progress of the current task
 
-FUNCTION installation_process () {
+function installation_process () {
 echo "----------------------------------------------------------------"
 echo "----------------------------------------------------------------"
 echo "----------------------------------------------------------------"
